@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "saleem",
+      "title": "saleem",
+      "cost": 98
+    },
+    {
+      "id": 3,
+      "author": "",
+      "title": "",
+      "cost": 0
+    }
+  ]
+}
